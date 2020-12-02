@@ -1,0 +1,13 @@
+C:\Users\ggame\source\repos\LifeGame\LifeGame\bin\Debug\netcoreapp3.1\LifeGame.exe
+C:\Users\ggame\source\repos\LifeGame\LifeGame\bin\Debug\netcoreapp3.1\LifeGame.deps.json
+C:\Users\ggame\source\repos\LifeGame\LifeGame\bin\Debug\netcoreapp3.1\LifeGame.runtimeconfig.json
+C:\Users\ggame\source\repos\LifeGame\LifeGame\bin\Debug\netcoreapp3.1\LifeGame.runtimeconfig.dev.json
+C:\Users\ggame\source\repos\LifeGame\LifeGame\bin\Debug\netcoreapp3.1\LifeGame.dll
+C:\Users\ggame\source\repos\LifeGame\LifeGame\bin\Debug\netcoreapp3.1\LifeGame.pdb
+C:\Users\ggame\source\repos\LifeGame\LifeGame\obj\Debug\netcoreapp3.1\LifeGame.csprojAssemblyReference.cache
+C:\Users\ggame\source\repos\LifeGame\LifeGame\obj\Debug\netcoreapp3.1\LifeGame.AssemblyInfoInputs.cache
+C:\Users\ggame\source\repos\LifeGame\LifeGame\obj\Debug\netcoreapp3.1\LifeGame.AssemblyInfo.cs
+C:\Users\ggame\source\repos\LifeGame\LifeGame\obj\Debug\netcoreapp3.1\LifeGame.csproj.CoreCompileInputs.cache
+C:\Users\ggame\source\repos\LifeGame\LifeGame\obj\Debug\netcoreapp3.1\LifeGame.dll
+C:\Users\ggame\source\repos\LifeGame\LifeGame\obj\Debug\netcoreapp3.1\LifeGame.pdb
+C:\Users\ggame\source\repos\LifeGame\LifeGame\obj\Debug\netcoreapp3.1\LifeGame.genruntimeconfig.cache
